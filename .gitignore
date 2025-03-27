@@ -1,1 +1,3 @@
 *.log
+actions-runner
+init_runner.sh
